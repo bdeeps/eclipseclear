@@ -1,0 +1,111 @@
+{
+  "slug": "eclipseclear",
+  "box": 236,
+  "date": "2026-12-03",
+  "title": "EclipseClear",
+  "question": "How does an eclipse happen?",
+  "hook": "For about three minutes the Moon hides the Sun and day turns to night. Play with the shadow cone, tilt the Moon's orbit, race the umbra across a turning Earth, and find out why the Sun and Moon fit together so neatly.",
+  "thumbText": "HOW ECLIPSES HAPPEN",
+  "field": "space",
+  "minutes": 15,
+  "tags": [
+    "eclipse",
+    "solar eclipse",
+    "lunar eclipse",
+    "total eclipse",
+    "umbra",
+    "saros",
+    "corona",
+    "moon",
+    "space",
+    "astronomy",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A shadow with a point",
+      "text": "The Moon's shadow is a cone. Inside the dark umbra the Moon hides the whole Sun. In the wider penumbra it hides part of it. Past the umbra's tip the shadow widens again as the antumbra, where the Moon looks too small and leaves a ring of Sun."
+    },
+    {
+      "title": "A lucky coincidence",
+      "text": "The Sun is about 400 times wider than the Moon and about 390 times farther away, so both look about half a degree across. The umbra is about 375,000 km long, close to the Moon's distance from Earth, so its tip lands near the ground."
+    },
+    {
+      "title": "Why not every month",
+      "text": "The Moon's orbit is tilted about 5.1 degrees to Earth's orbit. Most new moons the shadow passes above or below Earth. Only when the Sun is near one of the two crossing points, the nodes, can an eclipse happen. That gives two eclipse seasons a year, each about 34.5 days long."
+    },
+    {
+      "title": "A narrow, fast path",
+      "text": "The umbra touches Earth as a spot about 100 to 270 km wide. It crosses the ground at 1,700 km/h or more, so totality lasts at most about 7.5 minutes. When the Moon is near apogee it looks smaller than the Sun, and the eclipse is annular."
+    },
+    {
+      "title": "The red Moon",
+      "text": "In a lunar eclipse the Moon enters Earth's shadow, about 2.6 Moon-widths across. It turns copper red because Earth's air bends sunlight into the shadow and scatters away the blue. Everyone on the night side can see it, and it is safe to watch."
+    },
+    {
+      "title": "The saros, and watching safely",
+      "text": "After 6,585 days, 18 years 11 days 8 hours, the Sun, Moon and nodes line up again and a similar eclipse returns, a third of the way round the world. Look at the partial phases only through glasses that meet ISO 12312-2. Remove them only in total totality."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Umbra",
+      "def": "The darkest part of a shadow, where the Moon hides the whole Sun."
+    },
+    {
+      "term": "Penumbra",
+      "def": "The paler outer shadow, where the Moon hides only part of the Sun."
+    },
+    {
+      "term": "Antumbra",
+      "def": "The shadow beyond the umbra's tip, where the Moon looks smaller than the Sun and an annular eclipse is seen."
+    },
+    {
+      "term": "Node",
+      "def": "One of the two points where the Moon's tilted orbit crosses the ecliptic."
+    },
+    {
+      "term": "Eclipse season",
+      "def": "A window of about 34.5 days, twice a year, when the Sun is near a node."
+    },
+    {
+      "term": "Path of totality",
+      "def": "The narrow strip of Earth where the umbra passes and the Sun is totally covered."
+    },
+    {
+      "term": "Annular eclipse",
+      "def": "The Moon is too far to cover the Sun, so a bright ring is left around it."
+    },
+    {
+      "term": "Saros",
+      "def": "About 6,585.3 days (18 years 11 days 8 hours) after which similar eclipses repeat."
+    },
+    {
+      "term": "Corona",
+      "def": "The Sun's faint outer atmosphere, visible only when its bright disc is hidden."
+    },
+    {
+      "term": "Baily's beads",
+      "def": "Points of sunlight shining through valleys on the Moon's edge just before and after totality."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "eclipseclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

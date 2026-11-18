@@ -1,0 +1,831 @@
+{
+  "title": "The history of eclipses",
+  "tagline": "From scratched bones and clay diaries to a gear machine, a telescope test of Einstein, and a shadow crossing a continent.",
+  "intro": "People have recorded eclipses for thousands of years, long before anyone could explain them. The first records were omens and dates. Later, patterns like the saros made forecasts possible, and Greek and Indian thinkers explained the shadows. Then cameras and spectroscopes turned eclipses into experiments. Some old stories are legend or disputed, and this history says so.",
+  "eras": [
+    {
+      "id": "records",
+      "name": "Watching and writing it down",
+      "from": -2134,
+      "to": -400,
+      "color": "#c49bff",
+      "summary": "Court astronomers, diviners and scribes in China and Babylon record eclipses. Some stories are legend, but the records slowly turn into data."
+    },
+    {
+      "id": "cycles",
+      "name": "Cycles, shadows and machines",
+      "from": -450,
+      "to": 200,
+      "color": "#ffb547",
+      "summary": "Greek and Babylonian thinkers find the repeating saros, explain the shadows, and build a gear machine that forecasts eclipses."
+    },
+    {
+      "id": "medieval",
+      "name": "Tables and almanacs",
+      "from": 499,
+      "to": 1720,
+      "color": "#ff7a59",
+      "summary": "Astronomers in India, Egypt, the Maya lands and Europe write down careful eclipse records and tables. One table helps save a stranded crew."
+    },
+    {
+      "id": "lab",
+      "name": "The eclipse as a laboratory",
+      "from": 1851,
+      "to": 1919,
+      "color": "#5ce1a9",
+      "summary": "Cameras and spectroscopes turn eclipses into experiments on the corona, a new element, and gravity itself."
+    },
+    {
+      "id": "modern",
+      "name": "Catalogues and crowds",
+      "from": 2009,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Computers map every eclipse across 5,000 years, and millions of people watch the shadow cross whole continents."
+    }
+  ],
+  "events": [
+    {
+      "year": -2134,
+      "date": "c. 2134 BCE (traditional)",
+      "era": "records",
+      "art": "person",
+      "title": "Hsi and Ho and the eclipse they missed (legend)",
+      "who": "Court astronomers Hsi and Ho (traditional)",
+      "where": "China",
+      "country": "China",
+      "text": "A Chinese tradition says two court astronomers served an emperor around 2134 BCE and failed to predict a total eclipse. The story is in the Shu Ching. The date is an educated guess, and some scholars doubt the two men were real.",
+      "why": "It shows how early eclipses were tied to duty and omens, even if the tale is a legend.",
+      "box": "",
+      "sources": [
+        2,
+        28
+      ]
+    },
+    {
+      "year": -1200,
+      "date": "14th–12th centuries BCE",
+      "era": "records",
+      "art": "plate",
+      "key": true,
+      "title": "Eclipses scratched on oracle bones",
+      "who": "Shang dynasty diviners",
+      "where": "Anyang, China",
+      "country": "China",
+      "text": "Shang diviners carved questions and notes on bone and shell. A modern study matched 13 eclipse records on them to six solar and seven lunar eclipses of the 14th to 12th centuries BCE. Some inscriptions only ask whether an eclipse will happen.",
+      "why": "They are among the oldest dated eclipse records, and astronomers still use them to check old calendars.",
+      "box": "",
+      "sources": [
+        17,
+        2
+      ]
+    },
+    {
+      "year": -720,
+      "date": "from c. 720 BCE",
+      "era": "records",
+      "art": "word",
+      "title": "The state of Lu logs 37 solar eclipses",
+      "who": "Chronicle keepers of Lu",
+      "where": "China",
+      "country": "China",
+      "text": "The state of Lu recorded 37 solar eclipses over about 240 years. The entries have accurate dates but no times or descriptions.",
+      "why": "A long, steady record lets later astronomers test how eclipses repeat.",
+      "box": "",
+      "sources": [
+        2,
+        28
+      ]
+    },
+    {
+      "year": -652,
+      "date": "652/651 BCE to 61/60 BCE",
+      "era": "records",
+      "art": "plate",
+      "title": "Babylon keeps astronomical diaries",
+      "who": "Babylonian scribes",
+      "where": "Babylon, Mesopotamia",
+      "country": "Iraq",
+      "text": "Babylonian scribes wrote diaries that covered six months at a time. They list the Moon's position, eclipses, solstices and planets. The oldest surviving tablet dates to 652/651 BCE and the youngest to 61/60 BCE.",
+      "why": "Centuries of written observations made it possible to spot repeating patterns in eclipses.",
+      "box": "saros",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": -585,
+      "date": "28 May 585 BCE (disputed)",
+      "era": "records",
+      "art": "eclipse",
+      "title": "Thales and the eclipse that stopped a battle (disputed)",
+      "who": "Thales of Miletus (attributed)",
+      "where": "Anatolia",
+      "country": "Turkey",
+      "text": "Herodotus says a war between the Lydians and the Medes paused when day turned to night. He says Thales had predicted it. Modern scholars often link it to the eclipse of 28 May 585 BCE, but the match and the prediction are both disputed.",
+      "why": "It is a famous early eclipse story, but historians treat the details with care.",
+      "box": "",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": -300,
+      "date": "last centuries BCE",
+      "era": "cycles",
+      "art": "candles",
+      "key": true,
+      "title": "Babylonian astronomers find the saros",
+      "who": "Babylonian astronomers",
+      "where": "Mesopotamia",
+      "country": "Iraq",
+      "text": "Babylonian observers noticed that eclipses repeat after 223 lunar months. That is about 6,585.3 days, or 18 years, 11 days and 8 hours. The earliest known records of it come from the last centuries BCE.",
+      "why": "It gave the first reliable way to forecast when an eclipse could happen.",
+      "box": "saros",
+      "sources": [
+        0,
+        27,
+        16
+      ]
+    },
+    {
+      "year": -450,
+      "date": "c. 450 BCE",
+      "era": "cycles",
+      "art": "eye",
+      "title": "Anaxagoras: the Moon shines with borrowed light",
+      "who": "Anaxagoras",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "Anaxagoras said the Moon shines by reflecting sunlight. He gave the first correct explanation of solar eclipses. His account of lunar eclipses was partly wrong, because he added unseen dark bodies. He was jailed in Athens around 450 BCE for such ideas.",
+      "why": "It replaced gods and omens with light and shadow.",
+      "box": "shadows",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": -270,
+      "date": "3rd century BCE",
+      "era": "cycles",
+      "art": "lens",
+      "title": "Aristarchus: Sun and Moon look the same size",
+      "who": "Aristarchus of Samos",
+      "where": "Greek world",
+      "country": "Greece",
+      "text": "In his work on the sizes and distances of the Sun and Moon, Aristarchus used evidence from eclipses. He stated that the Sun and Moon cover the same angle in the sky.",
+      "why": "That equal angle is why the Moon can just cover the Sun in a total eclipse.",
+      "box": "shadows",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": -190,
+      "date": "2nd century BCE (eclipse of 14 March 190 BCE)",
+      "era": "cycles",
+      "art": "telescope",
+      "title": "Hipparchus measures the Moon's distance",
+      "who": "Hipparchus",
+      "where": "Rhodes, Greece",
+      "country": "Greece",
+      "text": "Hipparchus worked out the Moon's distance from an eclipse, probably the one of 14 March 190 BCE. He got 59 to 67 Earth radii. The true value is about 60. His book on the topic is lost and survives through Ptolemy and others.",
+      "why": "It showed that an eclipse can be used to measure the sky.",
+      "box": "shadows",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": -100,
+      "date": "c. 150–100 BCE",
+      "era": "cycles",
+      "art": "window",
+      "key": true,
+      "title": "The Antikythera mechanism predicts eclipses",
+      "who": "Unknown Greek makers",
+      "where": "Greek world; found off Antikythera",
+      "country": "Greece",
+      "text": "A geared bronze device was recovered from a Roman-era shipwreck in 1901. Its back has a dial built on the 223-month saros cycle. Glyphs on the dial mark months when an eclipse could occur. Experts disagree on its exact date, with estimates in the 2nd century BCE.",
+      "why": "It is the oldest known geared machine for forecasting eclipses.",
+      "box": "saros",
+      "sources": [
+        18,
+        30
+      ]
+    },
+    {
+      "year": 150,
+      "date": "2nd century CE",
+      "era": "cycles",
+      "art": "telescope",
+      "title": "Ptolemy applies the Moon's motion to eclipses",
+      "who": "Claudius Ptolemy",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "Book 6 of Ptolemy's Almagest uses his models of the Sun and Moon to work out eclipses. His own observations were made from Alexandria between 127 and 141 CE.",
+      "why": "For centuries, this was the standard way to calculate eclipses.",
+      "box": "saros",
+      "sources": [
+        10,
+        27
+      ]
+    },
+    {
+      "year": 499,
+      "date": "499 CE",
+      "era": "medieval",
+      "art": "person",
+      "title": "Aryabhata explains eclipses without a demon",
+      "who": "Aryabhata",
+      "where": "India",
+      "country": "India",
+      "text": "Aryabhata finished his Aryabhatiya in 499 CE. He explained eclipses correctly, against the view that a demon named Rahu swallowed the Sun or Moon. He also held that the Moon shines by reflected sunlight.",
+      "why": "It put a physical cause in place of a myth.",
+      "box": "shadows",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1005,
+      "date": "c. 1005 (Ibn Yunus died 1009)",
+      "era": "medieval",
+      "art": "word",
+      "key": true,
+      "title": "Ibn Yunus gathers eclipse records in Cairo",
+      "who": "Ibn Yunus",
+      "where": "Cairo, Egypt",
+      "country": "Egypt",
+      "text": "Ibn Yunus compiled the Hakimi Zij in Cairo and dedicated it to Caliph al-Hakim. It cites about 30 solar and lunar eclipses between 829 and 1004. Later astronomers, including Simon Newcomb, used his records to study the Moon's motion.",
+      "why": "Careful times from a thousand years ago still help scientists today.",
+      "box": "lunar",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1200,
+      "date": "c. 1100–1300s CE (date of the codex is disputed)",
+      "era": "medieval",
+      "art": "plate",
+      "title": "A Maya book has eclipse tables",
+      "who": "Maya scribes",
+      "where": "Maya lands; now in Dresden, Germany",
+      "country": "Mexico",
+      "text": "The Dresden Codex is a Maya manuscript kept in the Saxon State Library in Dresden. Pages 51 to 58 are catalogued as eclipse tables. The codex itself is a later copy, and scholars date it in different ways.",
+      "why": "It shows Maya skywatchers tracked repeating eclipse patterns.",
+      "box": "saros",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1504,
+      "date": "29 February 1504 (local date)",
+      "era": "medieval",
+      "art": "eye",
+      "key": true,
+      "title": "Columbus uses a lunar eclipse to get food",
+      "who": "Christopher Columbus",
+      "where": "Jamaica",
+      "country": "Jamaica",
+      "text": "Columbus and his crew were stranded on Jamaica, and local people stopped supplying food. An almanac predicted a total lunar eclipse. Columbus warned that the Moon would vanish, then timed the eclipse with a sandglass. Sources differ on whether he used Zacuto's tables or Regiomontanus's Ephemerides.",
+      "why": "It shows how a printed eclipse table could change the course of an expedition.",
+      "box": "lunar",
+      "sources": [
+        22,
+        23,
+        35
+      ]
+    },
+    {
+      "year": 1686,
+      "date": "1686 or 1691",
+      "era": "medieval",
+      "art": "telescope",
+      "title": "Halley gives the saros its name",
+      "who": "Edmond Halley",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Edmond Halley began calling the 223-month cycle the saros. He took the word from an 11th-century Byzantine lexicon. Sources date this to 1686 or 1691, and a later scholar disputed the use of the word.",
+      "why": "The name stuck even though the old word meant something else.",
+      "box": "saros",
+      "sources": [
+        0,
+        27
+      ]
+    },
+    {
+      "year": 1720,
+      "date": "from 1720",
+      "era": "medieval",
+      "art": "telescope",
+      "title": "Halley watches the Moon through a full saros",
+      "who": "Edmond Halley",
+      "where": "Greenwich, England",
+      "country": "United Kingdom",
+      "text": "Halley became Astronomer Royal in 1720. He observed the Moon through one complete 18-year saros. Earlier lunar observations had been made only at conjunction or opposition.",
+      "why": "It tested the cycle against the Moon's real motion.",
+      "box": "saros",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "28 July 1851",
+      "era": "lab",
+      "art": "plate",
+      "key": true,
+      "title": "First good photograph of the corona",
+      "who": "Julius Berkowski",
+      "where": "Königsberg, Prussia (now Kaliningrad, Russia)",
+      "country": "Russia",
+      "text": "A local daguerreotypist named Berkowski took the first correctly exposed photograph of the solar corona. He used a small refracting telescope on the observatory's heliometer and exposed for 84 seconds at the start of totality. The image shows at least five prominences.",
+      "why": "It proved the corona could be recorded, not just sketched.",
+      "box": "corona",
+      "sources": [
+        15,
+        28
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "18 August 1868",
+      "era": "lab",
+      "art": "lens",
+      "key": true,
+      "title": "Helium is found in sunlight",
+      "who": "Jules Janssen; Norman Lockyer",
+      "where": "Guntur, India; England",
+      "country": "India",
+      "text": "Pierre Janssen saw a bright yellow line in the Sun's spectrum during the eclipse at Guntur. On 20 October Lockyer saw the same line in daylight. Lockyer named the new element helium, after the Greek word for the Sun. It was isolated on Earth in 1895.",
+      "why": "An eclipse revealed a new element before anyone had found it on Earth.",
+      "box": "corona",
+      "sources": [
+        24,
+        34
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "29 July 1878",
+      "era": "lab",
+      "art": "telescope",
+      "title": "Maria Mitchell travels to see the eclipse",
+      "who": "Maria Mitchell",
+      "where": "Denver, Colorado, USA",
+      "country": "United States",
+      "text": "Maria Mitchell, the American astronomer who found a comet in 1847, took a trip to Denver for the total solar eclipse of 29 July 1878.",
+      "why": "Women scientists took part in eclipse expeditions despite little formal support.",
+      "box": "",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "9 August 1896",
+      "era": "lab",
+      "art": "window",
+      "title": "An Amherst expedition sails to Esashi, Japan",
+      "who": "Mabel Loomis Todd; David Peck Todd",
+      "where": "Esashi, Hokkaido, Japan",
+      "country": "Japan",
+      "text": "Mabel Loomis Todd joined the Amherst eclipse expedition to Japan and wrote about it in Corona and Coronet. Cloud covered part of the sky during totality, so the team got few useful photographs.",
+      "why": "Her book gave readers a first-hand account of a total eclipse and of an expedition to see one.",
+      "box": "corona",
+      "sources": [
+        25,
+        32
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "22 January 1898",
+      "era": "lab",
+      "art": "lens",
+      "key": true,
+      "title": "Annie Maunder photographs the corona in India",
+      "who": "Annie Maunder",
+      "where": "Talini, India",
+      "country": "India",
+      "text": "Annie Maunder joined a British Astronomical Association expedition to India. With a small camera and a 1.5-inch lens she photographed what has been called the longest coronal streamer on photographic record. Girton College funded the lens.",
+      "why": "A small lens in careful hands beat larger instruments at showing how far the corona reaches.",
+      "box": "corona",
+      "sources": [
+        13,
+        31
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "29 May 1919 (announced 6 November 1919)",
+      "era": "lab",
+      "art": "telescope",
+      "key": true,
+      "title": "Eclipse expeditions test Einstein",
+      "who": "Frank Dyson; Arthur Eddington; Andrew Crommelin; Charles Davidson; Edwin Cottingham",
+      "where": "Príncipe (West Africa); Sobral, Brazil",
+      "country": "Brazil",
+      "text": "Two British teams photographed stars near the eclipsed Sun. Sobral gave a deflection of 1.98 arcseconds, and Príncipe gave 1.61, both with large errors. Einstein's theory predicts about 1.75, and Newtonian gravity about half that. The results were announced to the Royal Society on 6 November 1919.",
+      "why": "It was the first big public test of general relativity.",
+      "box": "corona",
+      "sources": [
+        14,
+        29
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "NASA catalogues 11,898 solar eclipses",
+      "who": "Fred Espenak and Jean Meeus",
+      "where": "Greenbelt, Maryland, USA",
+      "country": "United States",
+      "text": "Fred Espenak and Jean Meeus published NASA's Five Millennium Catalog of Solar Eclipses (revised edition, January 2009). It covers 11,898 solar eclipses from 2000 BCE to 3000 CE. NASA's saros pages list the eclipse of 20 June 1955 at 7 min 8 s. Totality can never exceed about 7 min 32 s.",
+      "why": "Anyone can now look up when and where an eclipse happened or will happen.",
+      "box": "saros",
+      "sources": [
+        3,
+        1,
+        28
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "21 August 2017",
+      "era": "modern",
+      "art": "earth",
+      "title": "A total eclipse crosses the United States",
+      "who": "Observers across the United States",
+      "where": "Across the USA",
+      "country": "United States",
+      "text": "Totality in 2017 lasted at most 2 min 42 s, near Carbondale, Illinois. The path was about 62 to 71 miles wide.",
+      "why": "It is the baseline NASA uses to compare the 2024 eclipse.",
+      "box": "path",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "14 October 2023",
+      "era": "modern",
+      "art": "eclipse",
+      "title": "An annular eclipse leaves a ring of fire",
+      "who": "Observers in the Americas",
+      "where": "Oregon to Texas, then Central and South America",
+      "country": "United States",
+      "text": "The Moon was farther from Earth and looked smaller than the Sun, so a bright ring stayed visible. The annular phase lasted more than 5 minutes in some places.",
+      "why": "It shows that distance decides whether the Moon covers the whole Sun.",
+      "box": "path",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "8 April 2024",
+      "era": "modern",
+      "art": "eclipse",
+      "key": true,
+      "title": "The 2024 total eclipse crosses North America",
+      "who": "Observers and NASA citizen scientists",
+      "where": "Mexico, USA and Canada",
+      "country": "United States",
+      "text": "The path ran from Mexico to Texas to Newfoundland. Totality lasted up to 4 min 28 s. The path was about 108 to 122 miles wide, roughly 1.7 times wider than in 2017. The next total eclipse in the contiguous United States is 23 August 2044.",
+      "why": "It gave scientists, and citizen scientists, a chance to study the corona.",
+      "box": "path",
+      "sources": [
+        4,
+        5
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First correctly exposed photograph of the corona",
+      "value": "28 July 1851",
+      "who": "Julius Berkowski, Königsberg"
+    },
+    {
+      "label": "Helium first detected, in sunlight",
+      "value": "18 August 1868",
+      "who": "Pierre Janssen, Guntur, India"
+    },
+    {
+      "label": "Oldest surviving Babylonian astronomical diary tablet",
+      "value": "652/651 BCE",
+      "who": "Babylonian scribes"
+    },
+    {
+      "label": "First telescopic observation of a total eclipse",
+      "value": "1706",
+      "who": "France (per Wikipedia)"
+    },
+    {
+      "label": "Deflection of starlight measured at an eclipse",
+      "value": "29 May 1919",
+      "who": "Dyson, Eddington and teams"
+    }
+  ],
+  "people": [
+    {
+      "name": "Annie Maunder",
+      "life": "1868 – 1947",
+      "role": "Astronomer and eclipse photographer",
+      "from": "Ireland",
+      "note": "She photographed a very long coronal streamer in India in 1898 with a tiny lens."
+    },
+    {
+      "name": "Mabel Loomis Todd",
+      "life": "1856 – 1932",
+      "role": "Writer and eclipse traveller",
+      "from": "United States",
+      "note": "She joined expeditions to Japan and wrote Corona and Coronet."
+    },
+    {
+      "name": "Maria Mitchell",
+      "life": "1818 – 1889",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "She travelled to Denver to see the 1878 total eclipse."
+    },
+    {
+      "name": "Ibn Yunus",
+      "life": "950 – 1009",
+      "role": "Astronomer",
+      "from": "Egypt",
+      "note": "His Cairo zij preserves about thirty eclipse records used by later scientists."
+    },
+    {
+      "name": "Aryabhata",
+      "life": "born 476 CE",
+      "role": "Astronomer and mathematician",
+      "from": "India",
+      "note": "He explained eclipses as shadows rather than a demon."
+    },
+    {
+      "name": "Anaxagoras",
+      "life": "",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "He said the Moon shines by reflected light and explained solar eclipses."
+    },
+    {
+      "name": "Hipparchus",
+      "life": "",
+      "role": "Astronomer",
+      "from": "Greece",
+      "note": "He used an eclipse to estimate the Moon's distance."
+    },
+    {
+      "name": "Claudius Ptolemy",
+      "life": "c. 85 – c. 165 CE",
+      "role": "Astronomer",
+      "from": "Egypt",
+      "note": "His Almagest applies Moon and Sun models to eclipses."
+    },
+    {
+      "name": "Arthur Eddington",
+      "life": "",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "He led the Príncipe team in 1919."
+    },
+    {
+      "name": "Jules Janssen",
+      "life": "",
+      "role": "Astronomer",
+      "from": "France",
+      "note": "He saw the yellow line of helium at Guntur in 1868."
+    }
+  ],
+  "series": [
+    {
+      "id": "totality",
+      "title": "How long totality lasted",
+      "unit": "seconds",
+      "log": false,
+      "after": "lab",
+      "caption": "Maximum totality for some eclipses, from 1955 to a predicted one in 2186.",
+      "points": [
+        {
+          "year": 1955,
+          "value": 428,
+          "label": "1955: 7 min 8 s"
+        },
+        {
+          "year": 2017,
+          "value": 162,
+          "label": "2017: 2 min 42 s"
+        },
+        {
+          "year": 2024,
+          "value": 268,
+          "label": "2024: up to 4 min 28 s"
+        },
+        {
+          "year": 2186,
+          "value": 449,
+          "label": "2186 (predicted): 7 min 29 s"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "One saros is about 6,585.3 days. The extra 8 hours shifts each eclipse path about 120 degrees west.",
+    "Totality can never last more than about 7 min 32 s.",
+    "The Moon's orbit is tilted about 5 degrees, so most new Moons miss the Sun.",
+    "A total eclipse returns to the same place only every 360 to 410 years on average.",
+    "The 2024 path was about 1.7 times wider than the 2017 path."
+  ],
+  "sources": [
+    {
+      "title": "Saros",
+      "publisher": "NASA Eclipse Web Site (Goddard Space Flight Center)",
+      "url": "https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros.html"
+    },
+    {
+      "title": "Catalog of Solar Eclipses of Saros 136",
+      "publisher": "NASA Eclipse Web Site (Goddard Space Flight Center)",
+      "url": "https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros136.html"
+    },
+    {
+      "title": "Ancient Eclipses",
+      "publisher": "NASA Sun-Earth Day (Goddard Space Flight Center archive)",
+      "url": "https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/2009eclipse/ancienteclipses.php"
+    },
+    {
+      "title": "Five Millennium Catalog of Solar Eclipses: -1999 to +3000",
+      "publisher": "NASA Eclipse Web Site (Goddard Space Flight Center)",
+      "url": "https://eclipse.gsfc.nasa.gov/SEpubs/5MKSE.html"
+    },
+    {
+      "title": "2024 Total Eclipse",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/"
+    },
+    {
+      "title": "How the 2024 Total Solar Eclipse Is Different than the 2017 Eclipse",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/"
+    },
+    {
+      "title": "2023 Annular Eclipse",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/"
+    },
+    {
+      "title": "Anaxagoras",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Anaxagoras/"
+    },
+    {
+      "title": "Aristarchus of Samos",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristarchus/"
+    },
+    {
+      "title": "Hipparchus of Rhodes",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/"
+    },
+    {
+      "title": "Claudius Ptolemy",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ptolemy/"
+    },
+    {
+      "title": "Aryabhata I",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+    },
+    {
+      "title": "Edmond Halley",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Halley/"
+    },
+    {
+      "title": "Annie Scott Dill Maunder",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maunder/"
+    },
+    {
+      "title": "The Controversial British-led Eclipse Expeditions of 1919 That Verified General Relativity",
+      "publisher": "The History and Science of Total Solar Eclipses, University of St Andrews",
+      "url": "https://eclipse-history.wp.st-andrews.ac.uk/the-controversial-british-led-eclipse-expeditions-of-1919-that-validated-general-relativity/"
+    },
+    {
+      "title": "First photograph of the solar corona",
+      "publisher": "The History and Science of Total Solar Eclipses, University of St Andrews",
+      "url": "https://eclipse-history.wp.st-andrews.ac.uk/first-photograph-of-the-solar-corona/"
+    },
+    {
+      "title": "Astronomical Diaries",
+      "publisher": "Livius.org (Jona Lendering)",
+      "url": "https://www.livius.org/articles/concept/astronomical-diaries/"
+    },
+    {
+      "title": "Astronomical dating and statistical analysis of ancient Chinese eclipse data",
+      "publisher": "Highlights of Astronomy, Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/highlights-of-astronomy/article/astronomical-dating-and-statistical-analysis-of-ancient-chinese-eclipse-data/FA4F07241298AFC5844F152C3151184C"
+    },
+    {
+      "title": "Eclipse Prediction on the Ancient Greek Astronomical Calculating Machine Known as the Antikythera Mechanism (Freeth, 2014)",
+      "publisher": "PLoS ONE, via Oxford University Research Archive",
+      "url": "https://ora.ox.ac.uk/objects/uuid:77f8ec7e-2577-488d-ba87-a9aa07c82094"
+    },
+    {
+      "title": "Observations of eclipses by medieval Arab astronomers",
+      "publisher": "Cambridge University Press (Historical Eclipses and Earth's Rotation, F. R. Stephenson)",
+      "url": "https://www.cambridge.org/core/books/historical-eclipses-and-earths-rotation/observations-of-eclipses-by-medieval-arab-astronomers/A4206E9AED9228A4D9548522A898DEEA"
+    },
+    {
+      "title": "Precious Records of Eclipses in Muslim Astronomy and History",
+      "publisher": "Muslim Heritage (Foundation for Science, Technology and Civilisation)",
+      "url": "https://muslimheritage.com/precious-records-of-eclipses-in-muslim-astronomy-and-history/"
+    },
+    {
+      "title": "Codex Dresdensis, Mscr.Dresd.R.310: Eklipse-Tafeln (eclipse tables)",
+      "publisher": "Deutsche Digitale Bibliothek / SLUB Dresden",
+      "url": "https://www.deutsche-digitale-bibliothek.de/item/KMI7LPXKPFAWIFNZNMC63W4AYDWYT5UY"
+    },
+    {
+      "title": "The Eclipse that saved Columbus",
+      "publisher": "European Space Agency",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lessons_online/The_Eclipse_that_saved_Columbus"
+    },
+    {
+      "title": "The Eclipse That Saved Columbus",
+      "publisher": "Science News (Society for Science)",
+      "url": "https://www.sciencenews.org/article/eclipse-saved-columbus"
+    },
+    {
+      "title": "This Month in Physics History: Discovery of helium (August 1868)",
+      "publisher": "APS News, American Physical Society",
+      "url": "https://www.aps.org/publications/apsnews/201409/physicshistory.cfm"
+    },
+    {
+      "title": "Corona and Coronet: the Amherst Eclipse Expedition to Japan, 1896",
+      "publisher": "Exploratorium",
+      "url": "https://annex.exploratorium.edu/eclipse/1896.html"
+    },
+    {
+      "title": "Eclipse of Thales",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_of_Thales"
+    },
+    {
+      "title": "Saros (astronomy)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saros_(astronomy)"
+    },
+    {
+      "title": "Solar eclipse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_eclipse"
+    },
+    {
+      "title": "Eddington experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eddington_experiment"
+    },
+    {
+      "title": "Antikythera mechanism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    },
+    {
+      "title": "Annie Scott Dill Maunder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annie_Scott_Dill_Maunder"
+    },
+    {
+      "title": "Mabel Loomis Todd",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mabel_Loomis_Todd"
+    },
+    {
+      "title": "Maria Mitchell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_Mitchell"
+    },
+    {
+      "title": "Helium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Helium"
+    },
+    {
+      "title": "March 1504 lunar eclipse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/March_1504_lunar_eclipse"
+    }
+  ]
+}
